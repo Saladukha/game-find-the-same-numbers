@@ -1,0 +1,28 @@
+table {
+	position: absolute;
+	left:50%;
+	transform: translate(-50%);
+	border-collapse: separate;
+	border-spacing:15px;
+}
+
+h1 {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+	background-color: red;
+	width: 88px;
+	
+}
+
+.hidden {
+	visibility: hidden;
+}
+.item{
+	font-style: bold;
+	font-size: 70px;
+	background-color: blue;
+	color: white;
+}
